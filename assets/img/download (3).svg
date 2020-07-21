@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="77px" viewBox="0 0 89 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1165.000000, -3198.000000)" fill="#FFFFFF">
+            <g id="Group-5" transform="translate(1165.000000, 3198.000000)">
+                <path d="M36,56 L89,56 L89,25 L36,25 L36,56 Z M37.8702876,54.1673794 L87.1309588,54.1673794 L87.1309588,26.8326206 L37.8702876,26.8326206 L37.8702876,54.1673794 Z" id="Fill-1"></path>
+                <polygon id="Fill-2" points="0 0 0 77 53 77 53 58.1610999 51.1436727 58.1610999 51.1436727 75.1701098 1.85632727 75.1701098 1.85632727 1.83050042 51.1436727 1.83050042 51.1436727 21.131907 53 21.131907 53 0"></polygon>
+                <polygon id="Fill-3" points="47 46 71 46 71 44 47 44"></polygon>
+                <path d="M48.7513921,36.9248328 L58.2486079,36.9248328 L58.2486079,35.0751672 L48.7513921,35.0751672 L48.7513921,36.9248328 Z M47,39 L60,39 L60,33 L47,33 L47,39 Z" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
